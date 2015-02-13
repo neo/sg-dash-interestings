@@ -2,6 +2,6 @@ Interestings
 ------------
 Brush up on SQL using http://pgexercises.com/
 
-_Happy friday :)_
+Happy friday the 13th :imp:
 
 ![friday13](http://i.giphy.com/xRUh2um9whXOw.gif)
