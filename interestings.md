@@ -1,7 +1,7 @@
 Interestings
 ------------
-Brush up on SQL using http://pgexercises.com/
+1. Satic website? Use middleman, octopress.org or jekyllrb.com
+2. Generate simple documentation for your frontend code : Frontend.md
+3. The Best Email Designs in the Universe: reallygoodemails.com
 
-Happy friday the 13th >:)
-
-![friday13](http://i.giphy.com/xRUh2um9whXOw.gif)
+Happy MONDAY :D
