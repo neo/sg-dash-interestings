@@ -1,7 +1,7 @@
 Interestings
 ------------
-1. Satic website? Use middleman, octopress.org or jekyllrb.com
-2. Generate simple documentation for your frontend code : Frontend.md
-3. The Best Email Designs in the Universe: reallygoodemails.com
+1. Satic website? Use __middleman__, __octopress__ or __jekyll__
+2. Generate simple documentation for your frontend code : __Frontendmd__
+3. The Best Email Designs in the Universe: __reallygoodemails.com__
 
-Happy MONDAY :D
+_Happy MONDAY :D_
