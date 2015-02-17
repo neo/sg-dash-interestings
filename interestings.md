@@ -1,7 +1,5 @@
 Interestings
 ------------
-1. Static website? Use __middleman__, __octopress__ or __jekyll__
-2. Generate simple documentation for your frontend code : __Frontendmd__
-3. The Best Email Designs in the Universe: __reallygoodemails.com__
+A GitHub-like contributions calendar, but locally, with all your git commits : __github.com/IonicaBizau/git-stats__
 
-_Happy MONDAY :D_
+![](http://i.giphy.com/aDZAejU6KrjVu.gif)
