@@ -1,5 +1,6 @@
 Interestings
 ------------
-A GitHub-like contributions calendar, but locally, with all your git commits : __github.com/IonicaBizau/git-stats__
+1. Humble __Square Enix__ bundle: Hitman, Tomb Raider and more.
+2. A hilarious book about an astronaut stranded on mars: __The Martian__ by Andi Weir
 
-![](http://i.giphy.com/aDZAejU6KrjVu.gif)
+___Happpy Chinese New Year!!!___
