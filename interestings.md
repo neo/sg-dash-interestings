@@ -1,6 +1,9 @@
 Interestings
 ------------
-1. Humble __Square Enix__ bundle: Hitman, Tomb Raider and more.
-2. A hilarious book about an astronaut stranded on mars: __The Martian__ by Andi Weir
+1. http://www.atozcss.com/ ![](http://i.imgur.com/Psm0pDf.png)
+2. Axure: Create Prototypes of Websites & Apps Without Coding http://www.axure.com/
+3. fasterer Don't make your Rubies go fast. Make them go fasterer ™: https://github.com/DamirSvrtan/fasterer
+4. Cake Wreck: When professional cakes go horribly, hilariously wrong: http://www.cakewrecks.com
 
-___Happpy Chinese New Year!!!___
+# THE LIONS ARE COMING!!!
+<iframe src="//giphy.com/embed/C3bKXmyS3kePu?html5=true" width="480" height="268" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
