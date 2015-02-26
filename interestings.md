@@ -4,4 +4,4 @@
 4. Cake Wreck: http://www.cakewrecks.com
 
 #### THE LIONS ARE COMING!!!
-![](http://media.giphy.com/media/C3bKXmyS3kePu/giphy.gif)
+![](http://i.imgur.com/yYbFiyv.gif)
