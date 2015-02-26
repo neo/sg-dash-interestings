@@ -3,5 +3,4 @@
 3. fasterer  Make Rubies go fasterer ™: https://github.com/DamirSvrtan/fasterer
 4. Cake Wreck: http://www.cakewrecks.com
 
-#### THE LIONS ARE COMING!!!
 ![](http://i.imgur.com/yYbFiyv.gif)
