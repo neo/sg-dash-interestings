@@ -6,4 +6,4 @@ Interestings
 4. Cake Wreck: When professional cakes go horribly, hilariously wrong: http://www.cakewrecks.com
 
 # THE LIONS ARE COMING!!!
-<iframe src="//giphy.com/embed/C3bKXmyS3kePu" width="480" height="268" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+![](http://media.giphy.com/media/C3bKXmyS3kePu/giphy.gif)
