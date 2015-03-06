@@ -1,3 +1,6 @@
-# Thank you for the Lo Hei ^.^
+### Interestings
+ - Ruby sg has a Slack channel!
  
-![](http://cdn.mothership.sg/wp-content/uploads/2015/02/lo-hei.gif)
+Pair programming
+
+![](http://i.imgur.com/9EB8RN4.gif)
