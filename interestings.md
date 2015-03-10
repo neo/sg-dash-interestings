@@ -1,6 +1,11 @@
 ### Interestings
- - Ruby sg has a Slack channel!
+
+* Scalex: Hoogle, but for Scala.  Scalex lets you find Scala functions quickly.
+* Mockito Beta 2.0.X comes with Hamcrest Matchers  goodness:  http://mockito.org/
+* Golang 1.4: You can now compile to ARM! 
+
  
+
 Pair programming
 
-![](http://i.imgur.com/9EB8RN4.gif)
+![](https://i.imgur.com/VhlQKh.jpg)
