@@ -1,9 +1,14 @@
+### Halps
+
+`git annex` (Daryl)
+
 ### Interestings
 
-* Scalex: Hoogle, but for Scala.  Scalex lets you find Scala functions quickly.
-* Mockito Beta 2.0.X comes with Hamcrest Matchers  goodness:  http://mockito.org/
-* Golang 1.4: You can now compile to ARM! 
+* Apple Keynote
+* `git diff --patience` : http://bramcohen.livejournal.com/73318.html
+* Your daily reminder that `git extras` is awesome
+* Hoboken – Sinatra project generator https://github.com/bnadlerjr/hoboken
 
 PROGRAMMING
 
-![](https://i.imgur.com/VhlQKh.jpg)
+![](http://cdn.funnymemes.com/wp-content/uploads/2015/02/funny-gifs-typical-work-day.gif)
