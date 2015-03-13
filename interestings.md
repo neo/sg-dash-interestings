@@ -1,15 +1,7 @@
-### Halps
-
-`git annex` (Daryl)
-
 ### Interestings
 
-* Apple Keynote
-* `git diff --patience` : http://bramcohen.livejournal.com/73318.html
-* Your daily reminder that `git extras` is awesome
-* Hoboken – Sinatra project generator https://github.com/bnadlerjr/hoboken
-* Control + Command + Space ---> EMOJI! (Thanks Gabe!)
-
-### PROGRAMMING
-
-![](http://cdn.funnymemes.com/wp-content/uploads/2015/02/funny-gifs-typical-work-day.gif)
+* You can use [capybara](https://robots.thoughtbot.com/use-capybara-on-any-html-fragment-or-page) with any html string fragment.  [site_prism](https://github.com/natritmeyer/site_prism/blob/master/lib/site_prism/page.rb#L11) master has a load function that uses this.
+* One of Ben's Neo blog posts in in [ruby-weekly](http://rubyweekly.com/issues/237)
+* There is a heman movie
+* RIP Sir Terence David John "Terry" Pratchett, OBE
+* [surge](http://surge.sh/) Static web publishing for front end developers
