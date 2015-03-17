@@ -1,12 +1,6 @@
 ### Interestings
 
-* Nocebo
-  - Negative words have impact.
-  - Don't read side effects of medical labels - cos its more likely it will happen.
-  - [wikipedia](http://en.wikipedia.org/wiki/Nocebo)
-
-* [Bish](https://github.com/tdenniston/bish)
-  - Programming language that compiles down to Bash.
-
-* [iOS Research Kit](https://www.apple.com/researchkit/)
-  - Solves a pain point in data collection in medical research.
+* [Practicing Ruby] (https://practicingruby.com/) - monthly newsletter
+  - Delightful lessons for dedicated programmers (happiness guaranteed)
+* [Design is Refactoring] (http://designisrefactoring.com/) - blog
+  - If Writing is Rewriting, Then Designing is Refactoring
