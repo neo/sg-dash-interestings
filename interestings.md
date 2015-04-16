@@ -1,3 +1,4 @@
 ### Interestings
 
-* [Fig](http://www.fig.sh/) has been replaced by [Docker Compose](https://github.com/docker/compose), and is now deprecated. [Announcing the release](http://blog.docker.com/2015/02/announcing-docker-compose/) (26 Feb 2015) on their blog, Compose is based directly on the Fig codebase and is backwards-compatible with Fig applications. Fig will continue to receive critical maintenance updates, but is now deprecated in favour of Compose.
+* [NASA's New Horizons probe beams back its first color image of Pluto](http://www.space.com/29109-pluto-color-photo-nasa-new-horizons.html)
+* SpaceX's Falcon 9 almost landed! <br>![It almost landed!](http://31.media.tumblr.com/7d2cca2c0fab5203980aa0338f688558/tumblr_nmuptj8IYO1qbeh7ko1_400.gif)
