@@ -1,4 +1,5 @@
 ### Interestings
 
-* [NASA's New Horizons probe beams back its first color image of Pluto](http://www.space.com/29109-pluto-color-photo-nasa-new-horizons.html)
-* SpaceX's Falcon 9 almost landed! <br>![It almost landed!](http://31.media.tumblr.com/7d2cca2c0fab5203980aa0338f688558/tumblr_nmuptj8IYO1qbeh7ko1_400.gif)
+* [Why we get sick?](http://www.amazon.com/Why-We-Get-Sick-Darwinian/dp/0679746749) It synthesizes the latest research on disorders ranging from allergies to Alzheimer's and from cancer to Huntington's chore and reexamines the age-old attitudes toward sickness
+* [Being Moral](http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152) How medicine can not only improve life but also the process of its ending..
+* Bash-logout: You can login and logout as different users in bash
