@@ -1,5 +1,7 @@
 ### Interestings
 
-* [Why we get sick?](http://www.amazon.com/Why-We-Get-Sick-Darwinian/dp/0679746749) It synthesizes the latest research on disorders ranging from allergies to Alzheimer's and from cancer to Huntington's chore and reexamines the age-old attitudes toward sickness
-* [Being Moral](http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152) How medicine can not only improve life but also the process of its ending..
-* Bash-logout: You can login and logout as different users in bash
+* [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)
+* [LevelUpRails.com](http://www.LevelUpRails.com/)
+* [The Generation Gap of Snapchat: UX for Different Age Groups](http://www.usertesting.com/blog/2015/04/21/snapchat/?utm_source=rss&utm_medium=rss&utm_campaign=snapchat)
+* "New Mediocre" - Declining population => Higher productivity per capita to sustain
+* ['Do it for Denmark!'](http://www.washingtonpost.com/news/morning-mix/wp/2014/03/27/do-it-for-denmark-campaign-wants-danes-to-have-more-sex-a-lot-more-sex/)
