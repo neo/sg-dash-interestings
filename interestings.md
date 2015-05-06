@@ -1,5 +1,5 @@
 ### Interestings
 
-* [Docker 1.6 released](https://github.com/docker/docker/blob/master/CHANGELOG.md)
-* [Koala's are funny](https://www.youtube.com/watch?v=djK_ucSYpaw)
-* [Kerbal Space Program 1.0](https://kerbalspaceprogram.com)
+* [Am i mobile not not? Check usigng the Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
+* [AWS Lambda is awesome](http://aws.amazon.com/lambda/)
+* [Flash Boys - High Frequency Trading](http://en.wikipedia.org/wiki/Flash_Boys)
