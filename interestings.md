@@ -1,7 +1,10 @@
-### Interestings (27 May 2015)
+### Interestings for Wed, 3 June 2015
 
-* [How Does Bundler Work, Anyway?](http://confreaks.tv/videos/railsconf2015-how-does-bundler-work-anyway)
-* [What Does My Site Cost?](http://whatdoesmysitecost.com/)
-* [Martin Fowler - YAGNI](http://martinfowler.com/bliki/Yagni.html)
-* [The UX of Real Life — Door Handle](http://applum.com/blog/2013/06/the-ux-of-real-life-door-handle/)
-* [Gmail for Mac](http://www.gmailformac.com/)
+* [Blessed-contrib](https://github.com/yaronn/blessed-contrib) - Build terminal
+    dashboards using ascii/ansi art and javascript
+* [Heroku Review apps for pull requests](https://blog.heroku.com/archives/2015/5/19/heroku_review_apps_beta)
+    - Very cool, check every pull request
+* [Heroku Redis in beta](https://blog.heroku.com/archives/2015/5/12/heroku-redis-now-available-in-public-beta)
+    - joins postgres amongst the official add-on services
+* [Windows 10 release on 29 July](https://blogs.windows.com/bloggingwindows/2015/06/01/hello-world-windows-10-available-on-july-29/)
+    - lots of interesting goodies - Cortana, Hello, Edge, XBox
