@@ -4,4 +4,3 @@
 2. [Analytics Building Blocks](https://keen.io/)
 3. [Monolith First](http://martinfowler.com/bliki/MonolithFirst.html)
 4. [Don't Start Monolith](http://martinfowler.com/articles/dont-start-monolith.html)
-
