@@ -11,5 +11,5 @@ Refinery
 6. [xhyve](http://www.pagetable.com/?p=831) - Cool. xhyve hypervisor and virtualization for OSX Yosemite - you can already run CoreOS
 7. [Facebook time tracking posts](http://www.theverge.com/2015/6/13/8775587/facebook-news-feed-uses-time-read-to-promote-posts)
 8. [Uber tracking protesting drivers](http://www.theverge.com/2015/6/14/8778111/uber-threatens-to-fire-drivers-attending-protests-in-china)
-9. [When Will We Stop Using Facebook](http://www.thepinchandzoom.com/blog/2015/5/14/facebook-stop) -
+9. [When Will We Stop Using Facebook?](http://www.thepinchandzoom.com/blog/2015/5/14/facebook-stop) -
 Interesting and even-handed discussions of FB strategy and demise.
