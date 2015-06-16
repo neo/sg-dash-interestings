@@ -1,15 +1,7 @@
-### Interestings for Mon, 15 Jun 2015
+### Interestings for Tue, 16 Jun 2015
 
 
-1. [Philae comet lander wakes up](http://www.bbc.com/news/science-environment-33126885) - Demands coffee
-2. [Perl can't be parsed](http://www.perlmonks.org/?node_id=663393) - the formal
-proof (though we always knew it, really... right?)
-3. [Spina CMS](http://www.spinacms.com) - New RoR CMS with a lot of ideas from
-Refinery
-4. [Public beta of iOS 9](http://beta.apple.com) - late July - Sign up to get it, if you dare
-5. [Swift 2.0 open sourced](https://developer.apple.com/swift/blog/?id=29)
-6. [xhyve](http://www.pagetable.com/?p=831) - Cool. xhyve hypervisor and virtualization for OSX Yosemite - you can already run CoreOS
-7. [Facebook time tracking posts](http://www.theverge.com/2015/6/13/8775587/facebook-news-feed-uses-time-read-to-promote-posts)
-8. [Uber tracking protesting drivers](http://www.theverge.com/2015/6/14/8778111/uber-threatens-to-fire-drivers-attending-protests-in-china)
-9. [When Will We Stop Using Facebook?](http://www.thepinchandzoom.com/blog/2015/5/14/facebook-stop) -
-Interesting and even-handed discussions of FB strategy and demise.
+1. [Cordova Media Generator](https://www.npmjs.com/package/cordova-media-generator)- easily generate splash screens and icons for cordova projects.
+2. Youtube supports videos in 8k resolution. Wow! But, [your computer probably can't handle it, yet...](http://www.digitaltrends.com/computing/ghost-towns-is-youtubes-first-ever-8k-video-but-you-probably-cant-watch-it/)
+3. [LastPass was hacked](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/) - If you use LastPass, change your passwords.  It's a good idea to turn on 2-Factor authentication if you haven't aready.
+4. There is a [30-year-old Amiga](http://www.digitaltrends.com/computing/theres-30-year-old-commodore-amiga-still-controlling-heat-ac-19-public-schools/) that still controlls the HVAC for 19 schools in Grand Rapids, Michigan, USA.
