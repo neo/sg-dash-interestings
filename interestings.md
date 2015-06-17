@@ -1,7 +1,7 @@
-### Interestings for Tue, 16 Jun 2015
+### Interestings for Wed, 17 Jun 2015
 
 
-1. [Cordova Media Generator](https://www.npmjs.com/package/cordova-media-generator)- easily generate splash screens and icons for cordova projects.
-2. Youtube supports videos in 8k resolution. Wow! But, [your computer probably can't handle it, yet...](http://www.digitaltrends.com/computing/ghost-towns-is-youtubes-first-ever-8k-video-but-you-probably-cant-watch-it/)
-3. [LastPass was hacked](https://blog.lastpass.com/2015/06/lastpass-security-notice.html/) - If you use LastPass, change your passwords.  It's a good idea to turn on 2-Factor authentication if you haven't aready.
-4. There is a [30-year-old Amiga](http://www.digitaltrends.com/computing/theres-30-year-old-commodore-amiga-still-controlling-heat-ac-19-public-schools/) that still controlls the HVAC for 19 schools in Grand Rapids, Michigan, USA.
+1. [Why Rails May Kill Ruby](http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html)
+2. [Apple is deprecating HTTP in iOS 9.0 and OSX 10.4](https://developer.apple.com/library/prerelease/ios/releasenotes/General/WhatsNewIniOS/Articles/iOS9.html)
+3. [Apple Design Awards 2015](https://developer.apple.com/design/awards/)
+4. [Tropical Ruby 2015 (Brazil) - Keynote: The Soul of Software by Avdi Grimm](http://devblog.avdi.org/2015/05/21/the-soul-of-software/) - Do not code in anger. Coding angry creates code that makes other angry when they read / maintain it. We have a social responsibility to not pass on the anger.
