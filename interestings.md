@@ -1,7 +1,11 @@
-### Interestings for Tue, 23 Jun 2015
+### Interestings for Wed, Thur, Fri, 24-6 Jun 2015
 
-- [GitHub has read-only deploy keys](https://github.com/blog/2024-read-only-deploy-keys)
-- [Docker 1.7 - Overhauled network stack](https://blog.docker.com/2015/06/announcing-docker-1-7-multi-host-networking-plugins-and-orchestration-updates/)
-- [CoreOS is working on a Open Container Format](https://coreos.com/blog/app-container-and-the-open-container-project/)
-- [Mega-processor - 15m x 2m transistor hand-rolled board](http://www.megaprocessor.com/index.html)
-- [Jenkins-Credentials](https://wiki.jenkins-ci.org/display/JENKINS/Credentials+Plugin) - silently uses the Jenkins user's credentials even though you have configured something in Jenkins-Credentials.
+- [Empire](http://engineering.remind.com/introducing-empire) - a self-hosted EC2 and Docker PaaS Heroku near clone
+- [Pachyderm](http://www.pachyderm.io/) - containrized and versioned data set analytics
+- [kibana](https://www.elastic.co/products/kibana) Explore Data
+- [Sexist Clippy](http://www.theverge.com/2015/6/25/8844365/microsoft-clippy-sexist-leering) because he isn't already evil enough.
+- [Lotus 0.4.0 out](http://lotusrb.org/blog/2015/06/23/announcing-lotus-040.html) out - supposably usable now
+- [Ledger](http://ledger-cli.org) - the command line accounting program
+- [http://nerds.airbnb.com/aero](AirBNB) open sources Aerosolve it's ML algorithm
+- [http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics
+   linkedin/pinot](Pinot) open sourced by LinkedIn - a realtime, distributed OLAP datastore
