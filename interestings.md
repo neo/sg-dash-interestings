@@ -1,11 +1,6 @@
-### Interestings for Wed, Thur, Fri, 24-6 Jun 2015
+### Interestings for Mon 29 Jun 2015
 
-- [Empire](http://engineering.remind.com/introducing-empire) - a self-hosted EC2 and Docker PaaS Heroku near clone
-- [Pachyderm](http://www.pachyderm.io/) - containrized and versioned data set analytics
-- [kibana](https://www.elastic.co/products/kibana) Explore Data
-- [Sexist Clippy](http://www.theverge.com/2015/6/25/8844365/microsoft-clippy-sexist-leering) because he isn't already evil enough.
-- [Lotus 0.4.0 out](http://lotusrb.org/blog/2015/06/23/announcing-lotus-040.html) out - supposably usable now
-- [Ledger](http://ledger-cli.org) - the command line accounting program
-- [http://nerds.airbnb.com/aero](AirBNB) open sources Aerosolve it's ML algorithm
-- [http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics
-   linkedin/pinot](Pinot) open sourced by LinkedIn - a realtime, distributed OLAP datastore
+- [iOS 8.4](http://appleinsider.com/articles/15/06/28/new-ios-84-will-enable-apple-music-beats-1-on-tuesday-sonos-android-support-coming-later-this-year) Apple Music.
+- [GOR](https://github.com/buger/gor) HTTP trafic replay in real-time.
+- [New Relic Docker Monitoring](http://newrelic.com/docker) New Relic now offers visibility into the performance of containerized applications with Docker.
+- [Vertical Street View](http://googleblog.blogspot.sg/2015/06/vertical-street-view-of-worlds-most.html) Vertical Street View of the world’s most iconic rock wall: Yosemite’s El Capitan.
