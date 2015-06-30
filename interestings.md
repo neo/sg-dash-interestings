@@ -1,4 +1,4 @@
-### Interestings for Mon 30 Jun 2015
+### Interestings for Tues 30 Jun 2015
 
 - [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers#specify-a-serializer) - specific serializer in the controller
 - [Chandler](https://github.com/mattbrictson/chandler) - syncs your CHANGELOG entries to GitHub's release notes
