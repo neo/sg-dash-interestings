@@ -1,6 +1,6 @@
-### Interestings for Tues 30 Jun 2015
+### Interestings for Wed 1 Jul 2015
 
-- [ActiveModel::Serializer](https://github.com/rails-api/active_model_serializers#specify-a-serializer) - specific serializer in the controller
-- [Chandler](https://github.com/mattbrictson/chandler) - syncs your CHANGELOG entries to GitHub's release notes
-- [Codeship: Heroku PostgreSQL vs. Amazon RDS for PostgreSQL](https://blog.codeship.com/heroku-postgresql-versus-amazon-rds-postgresql/)
-- [Facebook Rainbow Profile Photos: The Latest Big Data Experiment?](http://www.theatlantic.com/technology/archive/2015/06/were-all-those-rainbow-profile-photos-another-facebook-experiment/397088/?utm_source=SFFB)
+- [Clojure 1.7 released](http://blog.cognitect.com/blog/2015/6/30/clojure-17) featuring Transducers and Reader Conditionals.
+- If you're like Gabe and _still_ have no real idea what Transducers are, check out [this explanation of transducers in JavaScript](http://simplectic.com/blog/2014/transducers-explained-1/)
+- [Elixir 1.0.5](https://github.com/elixir-lang/elixir/blob/3eb938a0ba7db5c6cc13d390e6242f66fdc9ef00/CHANGELOG.md) has been released
+- [Color vs Contrast: Which converts better?](http://blog.usabilitytools.com/color-vs-contrast/) discover the shocking color life hack that might surprise you! ;-)
