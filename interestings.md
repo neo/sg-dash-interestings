@@ -1,5 +1,3 @@
-### Interestings for Thurs 9 Jul 2015
+### Interestings for Friday 10 Jul 2015
 
-- [GUIX for Hurd](http://www.gnu.org/software/guix/) 
-- [es shell](http://wryun.github.io/es-shell/) Es is an extensible shell
-- [Material Design Lite](http://www.getmdl.io/index.html) A library of components & templates in vanilla CSS, HTML and JS
+- [Obama's Stealth Startup; Rogue Leader!](http://www.fastcompany.com/3046756/obama-and-his-geeks)
