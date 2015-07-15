@@ -1,4 +1,5 @@
-### Interestings for Friday 10 Jul 2015
+### Interestings for Wed 15 Jul 2015
 
-- [Adobe & MIT - optimising code](http://newsoffice.mit.edu/2015/computer-program-fixes-old-code-faster-than-expert-engineers-0609)
-- [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
+- [iterm2](https://iterm2.com/shell_integration.html) shell integration
+- [ivy](https://github.com/robpike/ivy) APL calculator on iOS and Android. writting in Golang. Go Lang now runs on iOS and Andriod.  1.5 will have more support.
+- [https://www.openstack.org/](https://www.openstack.org/) Openstack - building hybrid cloud infrastructures (or just cloud infrastructures)
