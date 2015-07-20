@@ -1,3 +1,5 @@
-### Interestings for Thu 16 Jul 2015
+### Interestings for Mon 20 Jul 2015
 
-- [Wargames](http://overthewire.org/wargames/) - "The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games."
+- Justin Searls (@searls) gave a great talk at Railsconf: [Sometimes a Controller is Just a Controller](https://www.youtube.com/watch?v=MSgR-hJjdTo) - The title is misleading, as it's really about how there's no such thing as objectively "good" code and other similar observations. Everyone should watch this, perhaps especially our Juniors.
+- Kyle Kingsbury has a great series of articles examining the claims that various distributed data storage engines make pertaining to how they relate to the CAP theorem and how they fail in the face of various network partition events.  If you're thinking about working with distributed computing / storage, you should really give them all a read.  Start with [Call me maybe: Carly Rae Jepsen and the perils of network partitions](https://aphyr.com/posts/281-call-me-maybe-carly-rae-jepsen-and-the-perils-of-network-partitions) and see [all articles tagged with Jepsen](https://aphyr.com/tags/jepsen) for all of them in reverse chronological order.
+- There's a new experimental web browser for KDE called [Fiber](https://kver.wordpress.com/2015/07/02/fiber-ui-experiments-conclusion/). 
