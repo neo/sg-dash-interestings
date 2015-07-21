@@ -1,6 +1,6 @@
 ### Interestings for Mon 21 Jul 2015
 
-- "Vehicles, Experiments in Synthetic Psychology" is a fascinating book to illustrate human behaviour using thought experiments. These thought experiments are in the form of vehicles. For example, ![](http://s15.postimg.org/y48cg27y3/Braitenberg_Vehicle_2ab.png)
+- "Vehicles, Experiments in Synthetic Psychology" is a fascinating book to illustrate human behaviour using thought experiments. These thought experiments are in the form of vehicles. Also doubles up as Ben's baby's bedtime storybook. For example, ![](http://s15.postimg.org/y48cg27y3/Braitenberg_Vehicle_2ab.png)
 
 > More light right → right wheel turns faster → turns towards the left, away from the light.
 >
