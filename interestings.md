@@ -1,4 +1,4 @@
-### Interestings for Mon 22 Jul 2015
+### Interestings for Fri 24 Jul 2015
 
 *  [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
 *  Android blocks cross app auth tokens in KitKat - Its a 1-line undocumented fix! (Blog post potential by Diego)
