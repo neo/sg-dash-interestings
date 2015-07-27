@@ -1,5 +1,3 @@
-### Interestings for Fri 24 Jul 2015
+### Interestings for Mon 27 Jul 2015
 
-*  [Raymond Hettinger - Beyond PEP 8 -- Best practices for beautiful intelligible code - PyCon 2015](https://www.youtube.com/watch?v=wf-BqAjZb8M)
-*  Android blocks cross app auth tokens in KitKat - Its a 1-line undocumented fix! (Blog post potential by Diego)
-*  [Google is tracking you!](http://thehackernews.com/2014/08/google-map-tracks-your-every-move-check.html)
+*  [Monoids, not monads! They're really hard to understand and this blogpost makes it way better.](http://fsharpforfunandprofit.com/posts/monoids-without-tears/)
