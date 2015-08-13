@@ -1,6 +1,7 @@
-### Interestings for Wednesday 5 Aug 2015
+### Interestings for Thursday 6 Aug 2015
 
-- [How to remove one or all auto-complete text entries in Chrome?](http://superuser.com/questions/175250/how-to-remove-one-or-all-auto-complete-text-entries-in-chrome)
-- [Accept or Decline Javascript Confirmation in Capybara using `page.accept_confirm`](https://github.com/thoughtbot/capybara-webkit/issues/84) ([RubyDoc](http://www.rubydoc.info/github/jnicklas/capybara/Capybara/Session:accept_confirm) reference)
-- [Use `:X` to encrypt file in VIM - uses Blowfish2 by default](http://vim.wikia.com/wiki/Encryption)
+- [A new company called Alphabet now owns Google](http://www.wired.com/2015/08/new-company-called-alphabet-owns-google/)
+- ['Haha' has killed 'lol,' says Facebook](http://www.theverge.com/2015/8/10/9125797/haha-lol-or-hehe-facebook) 
+- [Google's transforming material icons Deconstruction](http://cloudcannon.com/deconstructions/2014/12/05/material-design-delightful-details.html)
+- [Mock Roles, Not Objects](http://www.jmock.org/oopsla2004.pdf)
 
