@@ -1,7 +1,8 @@
-### Interestings for Thurs, 13 Aug 2015
+### Interestings for Friday, 14 Aug 2015
 
-- [A new company called Alphabet now owns Google](http://www.wired.com/2015/08/new-company-called-alphabet-owns-google/)
-- ['Haha' has killed 'lol,' says Facebook](http://www.theverge.com/2015/8/10/9125797/haha-lol-or-hehe-facebook)
-- [Google's transforming material icons Deconstruction](http://cloudcannon.com/deconstructions/2014/12/05/material-design-delightful-details.html)
-- [Mock Roles, Not Objects](http://www.jmock.org/oopsla2004.pdf)
-
+- [Finally, a new pentagon shape that tiles in a plane](http://www.zmescience.com/science/math/pentagon-tiles-surface-0342523454/)
+- [Docker 1.8: Content Trust ,Toolbox, and updates to registry and orchestration!](http://blog.docker.com/2015/08/docker-1-8-content-trust-toolbox-registry-orchestration/)
+- Password Management TOoOols
+  - [1Password](https://agilebits.com/onepassword)
+  - [KeePass](http://keepass.info)
+  - [Passpie, from terminal!](https://github.com/marcwebbie/passpie)
