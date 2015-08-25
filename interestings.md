@@ -1,13 +1,6 @@
-### Interestings for Thurs, 20 Aug 2015
+### Interestings for Tuesday, 25 Aug 2015
 
-- Show age of branches in Git:
-
-```
-# in .gitconfig, add this alias:
-[alias]
-  branches = for-each-ref --sort='-authordate:iso8601' --format=' %(authordate:relative)%09%(refname:short)' refs/heads 
-```
-* [GitUp](http://gitup.co/) The Git interface you've been missing
-all your life has finally arrived.
-* [RetroLambda](https://github.com/orfjackal/retrolambda) Backport of Java 8's lambda expressions to Java 7, 6 and 5
-* [Android SDK Search from Chrome](https://chrome.google.com/webstore/detail/android-sdk-search/hgcbffeicehlpmgmnhnkjbjoldkfhoin?hl=en)
+- [Spotify 100 timeless songs that are never gonna give you up](http://mashable.com/2015/01/18/classic-songs-spotify/)
+- [Basket.js](http://addyosmani.github.io/basket.js/) Asset caching with smarts
+- [Key Promoter aka Gabe's Fave Plugin](https://github.com/athiele/key-promoter-fork)
+- Spotify has nice Python libs too
