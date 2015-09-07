@@ -1,8 +1,7 @@
-#### Interestings for Friday, 04 sept
+#### Interestings for Monday, 07 sept
 
-* [Nerf target](https://github.com/mcoms/nerf-target) to skip spotify
-* [Street view](http://hiroshima-welcome.jp/kanpai/catstreetview/) for cats
-* [Method log gem](http://urbanautomaton.com/blog/2014/09/22/tracking-method-history-in-git) lets you track the history of a method in your repo
-* Google's [Container Enginer](https://cloud.google.com/container-engine/) now generally available
-* [CloudSploit](https://cloudsploit.com)- scans your AWS account for vulnerabilities.
-* [rspec test filters](https://www.relishapp.com/rspec/rspec-core/v/3-3/docs/filtering) - Inclusion, exclution and conditional filtering of your test suite
+* [Copy/Paste Git URL in Github is implemented in flash](http://techcrunch.com/2013/01/02/github-replaces-copy-and-paste-with-zeroclipboard/) 
+* [Golang experimental cross-platform UI](http://www.infoworld.com/article/2903615/application-development/googles-gxui-equips-golang-with-an-experimental-cross-platform-ui.html)
+* [Heroku Pipelines](https://devcenter.heroku.com/articles/heroku-labs-new-pipelines) - Because continuous delivery
+* [vim-flay](https://github.com/prophittcorey/vim-flay) - Vim Plugin for Analyzing Ruby code for structural similarities
+* [Matplotlib Style Changes](http://matplotlib.org/style_changes.html)
