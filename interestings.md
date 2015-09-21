@@ -1,7 +1,6 @@
-#### Interestings for Fri, 18 Sept
+#### Interestings for Mon, 21 Sept
 
-- There is a [Unicode standard for Emoji](http://www.unicode.org/emoji/)
-- The [Halfskin series](https://www.goodreads.com/book/show/16193991-halfskin) are great SciFi reading
-- IOS 9 is out. [See what's new](http://www.apple.com/sg/ios/whats-new/)
-- [Electron](http://electron.atom.io/) lets you build desktop apps using web technology.
-- Toptal has a [helpful guide to open source licenses](http://www.toptal.com/open-source/developers-guide-to-open-source-licenses)
+- [httpie](https://github.com/jkbrzt/httpie) is a CLI wrapper around curl for much friendlier usage and nice pretty printing of output
+- [icdiff](http://www.jefftk.com/icdiff) is a CLI tool for nice columnar diffing
+- Check out [this video of NASA using a rocket sled to test a parachute at Mach 2](http://www.wired.com/2014/01/rocket-sled-parachute/)
+- Check out [these videos from MIT of capturing photons at a trillion frames per second](http://web.media.mit.edu/~raskar/trillionfps/)
