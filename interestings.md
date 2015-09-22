@@ -1,6 +1,3 @@
-#### Interestings for Mon, 21 Sept
+#### Interestings for Tues, 22 Sept
 
-- [httpie](https://github.com/jkbrzt/httpie) is a CLI wrapper around curl for much friendlier usage and nice pretty printing of output
-- [icdiff](http://www.jefftk.com/icdiff) is a CLI tool for nice columnar diffing
-- Check out [this video of NASA using a rocket sled to test a parachute at Mach 2](http://www.wired.com/2014/01/rocket-sled-parachute/)
-- Check out [these videos from MIT of capturing photons at a trillion frames per second](http://web.media.mit.edu/~raskar/trillionfps/)
+[Amy Hoy - "If You Don't Like Drunk Frat Boys, Don't Open an Irish Pub…" - MicroConf 2012](https://vimeo.com/48962410)
