@@ -1,5 +1,7 @@
-#### Interestings for Fri, 25 Sept
+#### Interestings for Mon, 28 Sept
 
-- [20 cognitive biases](http://www.businessinsider.sg/cognitive-biases-that-affect-decisions-2015-8/#.VgVQ37TXmHo)  that screw up your decisions
-- Rare [supermoon](http://www.straitstimes.com/singapore/science-briefs-rare-supermoon-eclipse-to-happen-on-sept-28) eclipse to happen on Sept 28, 10am (SGT).
-- [SolarBeat](http://www.whitevinyldesign.com/solarbeat/) - How many Earth years does it take for dwarf planet Pluto to complete a single orbit around the Sun? Listen to this calming tune based on the orbits of our planets.
+- The [super lunar eclipse](http://www.telegraph.co.uk/news/11895052/Supermoon-lunar-eclipse-2015-Amazing-pictures-of-once-in-a-generation-event-live.html) that happened this morning
+- [Geekcamp, and nat talking to a minister](http://mothership.sg/2015/09/check-out-minister-vivian-balakrishnan-doing-his-best-mark-zuckerberg-impression/) but to be honest we were just talking about cats. (Couldn't find the newspaper article)
+- [NASA to announce Mars mystery solved](https://www.nasa.gov/press-release/nasa-to-announce-mars-mystery-solved)
+- The rich colour variations of [Pluto](http://www.nasa.gov/image-feature/the-rich-color-variations-of-pluto)
+- [Watch](http://www.imdb.com/title/tt1707386/) and [read](http://www.amazon.com/Miserables-Signet-Classics-Victor-Hugo/dp/045141943X) Les Misérables! Super awesome and tear jerking.
