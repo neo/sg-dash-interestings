@@ -1,7 +1,6 @@
-#### Interestings for Mon, 28 Sept
+#### Interestings for Tue, 29 Sept
 
-- The [super lunar eclipse](http://www.telegraph.co.uk/news/11895052/Supermoon-lunar-eclipse-2015-Amazing-pictures-of-once-in-a-generation-event-live.html) that happened this morning
-- [Geekcamp, and nat talking to a minister](http://mothership.sg/2015/09/check-out-minister-vivian-balakrishnan-doing-his-best-mark-zuckerberg-impression/) but to be honest we were just talking about cats. (Couldn't find the newspaper article)
-- [NASA to announce Mars mystery solved](https://www.nasa.gov/press-release/nasa-to-announce-mars-mystery-solved)
-- The rich colour variations of [Pluto](http://www.nasa.gov/image-feature/the-rich-color-variations-of-pluto)
-- [Watch](http://www.imdb.com/title/tt1707386/) and [read](http://www.amazon.com/Miserables-Signet-Classics-Victor-Hugo/dp/045141943X) Les Misérables! Super awesome and tear jerking.
+- [beta version](https://beta.data.gov.sg) of data.gov.sg with better design and apis to access gov data 
+- [Flowing water](http://www.theguardian.com/science/2015/sep/28/nasa-scientists-find-evidence-flowing-water-mars/) discovered on mars!
+- Emacs Org mode works well with git and it has builtin Pomodoro timer
+- USA government has new [design standards](https://playbook.cio.gov/designstandards/) for the web
