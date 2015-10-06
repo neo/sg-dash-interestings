@@ -1,9 +1,5 @@
-#### Interestings for Thur, 1 Oct
+#### Interestings for Mon, 5 Oct
 
-* [Programming Phoenix Book](https://pragprog.com/book/phoenix/programming-phoenix)
-* [Videos from Øredev Conference](https://vimeo.com/user4280938)
-* [Open Culture](http://www.openculture.com/)
-* [MockWebServer](https://github.com/square/okhttp/tree/master/mockwebserver)
-* [Htty: A console application for interacting with web servers](http://htty.github.io/htty/)
-* [Dinghy: faster, friendlier Docker on OS X](https://github.com/codekitchen/dinghy)
-* Chrome Mobile tabs sync with Chrome Desktop tabs
+* Digital Ocean's hosting a [Hacktoberfest](https://www.digitalocean.com/company/blog/hacktoberfest/) to encourage people to contribute to OS projects. Make 5 contributions, get a T-Shirt!
+* [FitCat](http://developer.getpebble.com/blog/2015/05/17/timeline-challenge-week-two/) is a cute app for your Pebble watch that shows you a cute cat that moves based on how much you walk during the day.
+* [Peak](http://www.peak.net/), [Elevate](http://elevateapp.com/), and [Lumosity](http://www.lumosity.com/) are all interesting brain training apps.
