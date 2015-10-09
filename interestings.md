@@ -1,5 +1,9 @@
-#### Interestings for Mon, 5 Oct
+#### Interestings for Fri, 9 Oct
 
-* Digital Ocean's hosting a [Hacktoberfest](https://www.digitalocean.com/company/blog/hacktoberfest/) to encourage people to contribute to OS projects. Make 5 contributions, get a T-Shirt!
-* [FitCat](http://developer.getpebble.com/blog/2015/05/17/timeline-challenge-week-two/) is a cute app for your Pebble watch that shows you a cute cat that moves based on how much you walk during the day.
-* [Peak](http://www.peak.net/), [Elevate](http://elevateapp.com/), and [Lumosity](http://www.lumosity.com/) are all interesting brain training apps.
+* [React Native](https://facebook.github.io/react-native/) - Easy to get started for build native apps using React
+* [UWSGI Legion Subsystem](http://uwsgi-docs.readthedocs.org/en/latest/Legion.html) - Python clustering
+* [Percent Relative Layout](https://developer.android.com/reference/android/support/percent/PercentRelativeLayout.html)  supports percentage based dimensions and margins in Android. Layout weights allows us to get fine-grained control of layout. See what suits you better
+* [Flexbox](http://learnlayout.com/flexbox.html) - CSS3 layouts
+* [Adobe Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html?scid=social52541916)
+* [Sketch](http://www.sketchapp.com/)
+* [Flif](https://github.com/FLIF-hub/FLIF)
