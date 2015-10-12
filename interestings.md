@@ -1,9 +1,8 @@
-#### Interestings for Fri, 9 Oct
+#### Interestings for Mon,12 Oct
 
-* [React Native](https://facebook.github.io/react-native/) - Easy to get started for build native apps using React
-* [UWSGI Legion Subsystem](http://uwsgi-docs.readthedocs.org/en/latest/Legion.html) - Python clustering
-* [Percent Relative Layout](https://developer.android.com/reference/android/support/percent/PercentRelativeLayout.html)  supports percentage based dimensions and margins in Android. Layout weights allows us to get fine-grained control of layout. See what suits you better
-* [Flexbox](http://learnlayout.com/flexbox.html) - CSS3 layouts
-* [Adobe Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html?scid=social52541916)
-* [Sketch](http://www.sketchapp.com/)
-* [Flif](https://github.com/FLIF-hub/FLIF)
+* [Quicker - Tracker Notifier](https://play.google.com/apps/testing/net.xaethos.trackernotifier)
+* [RxJava Docs are awesome!](http://reactivex.io/RxJava/javadoc/rx/Observable.html)
+* [Dash for iOS](https://kapeli.com/dash_ios)
+* [Code Academy Redesign](https://medium.com/about-codecademy/reimagining-codecademy-com-1ebd994e2c08)
+* [Shoulda Matchers 3.0](https://robots.thoughtbot.com/shoulda-matchers-3-0)
+* [Google Accerlated Mobile Pages](https://googleblog.blogspot.sg/2015/10/introducing-accelerated-mobile-pages.html)
