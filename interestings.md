@@ -1,8 +1,6 @@
-#### Interestings for Mon,12 Oct
+#### Interestings for Tue, 13 Oct
 
-* [Quicker - Tracker Notifier](https://play.google.com/apps/testing/net.xaethos.trackernotifier)
-* [RxJava Docs are awesome!](http://reactivex.io/RxJava/javadoc/rx/Observable.html)
-* [Dash for iOS](https://kapeli.com/dash_ios)
-* [Code Academy Redesign](https://medium.com/about-codecademy/reimagining-codecademy-com-1ebd994e2c08)
-* [Shoulda Matchers 3.0](https://robots.thoughtbot.com/shoulda-matchers-3-0)
-* [Google Accerlated Mobile Pages](https://googleblog.blogspot.sg/2015/10/introducing-accelerated-mobile-pages.html)
+[Advanced Espresso for Android Testing](https://www.youtube.com/watch?v=GlPn60-_txk)
+[Friend Spell: Great example of Android Teting with Espresso, Mockito etc](https://github.com/chiuki/friendspell)
+[Wired Article Dell. EMC. HP. Cisco. These Tech Giants Are the Walking Dead](http://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle/)
+[Alphabear: Super Addictive iOS/Android word game](http://spryfox.com/our-games/alphabear/)
