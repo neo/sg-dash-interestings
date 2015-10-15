@@ -1,5 +1,7 @@
-#### Interestings for Tue, 13 Oct
+#### Interestings for Thu, 15 Oct
 
-* [Elixir Conf 2015](http://confreaks.tv/events/elixirconf2015) - They're slowly uploading the new videos.
-* [Ping++](https://pingxx.com/) - Chinese counterpart for Stripe, supports Alipay, Unionpay, WeChat pay, and JD pay.
-* [Apple updates all iMacs](http://www.apple.com/pr/library/2015/10/13Apple-Updates-iMac-Family-with-Stunning-New-Retina-Displays.html) - Yay!
+* [Python Dictionary Comprehensions](https://docs.python.org/2/tutorial/datastructures.html#dictionaries) are pretty helpful.
+* [Singapore's Beta Open Data site is up](http://beta.data.gov.sg/) and has nice data.
+* [LeakCanary](https://github.com/square/leakcanary) from Stripe is a helpful tool to find memory leaks in Android apps.
+* [Codingame](https://www.codingame.com/) is a site which offers programming games you can try online.
+* It turns out that Mass Effect, the video game, has some wonderful [design failutes](http://gamedesignreviews.com/reviews/mass-effect-interface-fail/)
