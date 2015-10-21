@@ -1,8 +1,5 @@
-#### Interestings for Fri, 16 Oct
+#### Interestings for Wed, 21 Oct
 
-* [Aurous](https://aurous.me/): Streaming music from the folks who bought you Popcorn Time.
-* [Backblaze's hard drive reliability study for Q3 2015](https://www.backblaze.com/blog/hard-drive-reliability-q3-2015/https://www.backblaze.com/blog/hard-drive-reliability-q3-2015/) tells you how various HDDs perform
-* See [how AirBnB partitioned their main database in two weeks](http://nerds.airbnb.com/how-we-partitioned-airbnbs-main-db/)
-* [FrontendMasters](https://frontendmasters.com/courses/) has great frontend courses. Neo has a subscription.
-* James Coglan's article [Callbacks are imperative, promises are functional](https://blog.jcoglan.com/2013/03/30/callbacks-are-imperative-promises-are-functional-nodes-biggest-missed-opportunity/) is pretty good.
-* Have we discovered an alien megastructure around a distant start? [The Atlantic has a nice article about this](http://www.theatlantic.com/science/archive/2015/10/the-most-interesting-star-in-our-galaxy/410023/).
+* ES6 introduces [arrows functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), making the function keyword optional.
+* [MailHog:](https://github.com/mailhog/MailHog) A better / prettier Mail Testing tool.
+* A cool [morphing superhero](https://files.slack.com/files-pri/T024F6N14-F0CSJ358S/awesome_ajax_loader..jpg) ajax loader
