@@ -1,5 +1,4 @@
-#### Interestings for Wed, 21 Oct
+#### Interestings for Thurs, 22 Oct
 
-* ES6 introduces [arrows functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions), making the function keyword optional.
-* [MailHog:](https://github.com/mailhog/MailHog) A better / prettier Mail Testing tool.
-* A cool [morphing superhero](https://files.slack.com/files-pri/T024F6N14-F0CSJ358S/awesome_ajax_loader..jpg) ajax loader
+* Don't share pictures of your [boarding pass](http://krebsonsecurity.com/2015/10/whats-in-a-boarding-pass-barcode-a-lot/) on social media!
+* [1Password Anywhere](https://blog.agilebits.com/2015/10/19/when-a-leak-isnt-a-leak/) lets anyone access your (encrypted) passwords, anywhere!
