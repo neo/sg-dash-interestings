@@ -1,7 +1,9 @@
-#### Interestings for Fri, 23 Oct
+#### Interestings for Mon, 26 Oct
 
-* Get a full [fake REST API](https://github.com/typicode/json-server) with zero coding in less than 30 seconds (seriously)
-* [Fake Online REST API](http://jsonplaceholder.typicode.com/) for Testing and Prototyping powered by JSON Server and lowdb
-* [FactRest](https://github.com/marmelab/FakeRest) : Intercept XMLHttpRequest to fake a REST server based on JSON data.
-* [FF Fetch](https://github.com/xaethos/dotfiles/blob/master/bin/git-ffetch) Perform a fast-forward fetch with all branches that can be fast forwarded
-* [Geek and Sundry](http://geekandsundry.com/) Your Daily Dose of Geekiness & etc.
+![PIKA PIKA](http://i.giphy.com/neyOwXuntQbv2.gif)
+* [PIKA's are cute](http://www.pikaworks.com/pikas/what.html) 
+* [A Vladimir Lenin statue has been transformed into Darth Vader](http://www.theverge.com/2015/10/23/9604902/vladimir-lenin-darth-vader-statue-ukraine-odessa) 
+* [Utility for generating structs based off of database schemas](https://github.com/yarbelk/goper)
+* [This Is How Patricia Became The Strongest Hurricane Ever Recorded](http://time.com/4085361/hurricane-patricia-storm/)
+* [Kite has yummy food. (Daryl made it to their Facebok page.)](https://www.facebook.com/kiteoncraig)
+* [YouTube Red offers ad-free videos for about $10 a month](http://time.com/4085459/youtube-red-subscriptions-creators/)
