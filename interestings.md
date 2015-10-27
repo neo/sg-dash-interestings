@@ -1,9 +1,9 @@
-#### Interestings for Mon, 26 Oct
+#### Interestings for Tues, 27 Oct
 
-![PIKA PIKA](http://i.giphy.com/neyOwXuntQbv2.gif)
-* [PIKA's are cute](http://www.pikaworks.com/pikas/what.html) 
-* [A Vladimir Lenin statue has been transformed into Darth Vader](http://www.theverge.com/2015/10/23/9604902/vladimir-lenin-darth-vader-statue-ukraine-odessa) 
-* [Utility for generating structs based off of database schemas](https://github.com/yarbelk/goper)
-* [This Is How Patricia Became The Strongest Hurricane Ever Recorded](http://time.com/4085361/hurricane-patricia-storm/)
-* [Kite has yummy food. (Daryl made it to their Facebok page.)](https://www.facebook.com/kiteoncraig)
-* [YouTube Red offers ad-free videos for about $10 a month](http://time.com/4085459/youtube-red-subscriptions-creators/)
+<!-- ![PIKA PIKA](http://i.giphy.com/neyOwXuntQbv2.gif) -->
+* [19 secrets of consulting that changed my life](http://www.conferencesthatwork.com/index.php/personal-effectiveness/2011/04/19-secrets-of-consulting-that-changed-my-life/) 
+* [Getting Started with Data Binding in Android](http://www.opgenorth.net/blog/2015/09/15/android-data-binding-intro/) 
+* [Hardcore History Podcast](http://www.dancarlin.com/hardcore-history-series/)
+* [What's new in Sketch version 3.4](http://www.sketchapp.com/support/updates/)
+* [How a Password Changed My Life](https://medium.com/the-lighthouse/how-a-password-changed-my-life-7af5d5f28038#.r8uvgmcpa)
+* [Stop Forcing Your Arbitrary Password Constraints on Me](http://ryanwinchester.ca/post/stop-forcing-your-arbitrary-password-rules-on-me)
