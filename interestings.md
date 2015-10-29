@@ -1,5 +1,6 @@
 #### Interestings for Thursday, 29 October, 2015
 
+* 👻  🎃   👻  🎃   👻  🎃   👻  🎃   👻  🎃   👻  🎃
 * [From Development to Production with Docker and Amazon Elastic
     Beanstalk](http://engineering.facile.it/from-development-to-production-with-docker-and-amazon-ecs)
 * Great video with Ken Wong of UsTwo [talking about the making of the
