@@ -1,11 +1,9 @@
-#### Interestings for Friday, 6 November 2015
+#### Interestings for Monday, 9 November 2015
 
-* [Why Complaining is literally killing you](http://www.curiousapes.com/the-science-of-happiness-why-complaining-is-literally-killing-you/)
-* [Git Format-Patch](https://git-scm.com/docs/git-format-patch)
-* [Freakonomics - Preventing crime for pennies on the dollar](http://freakonomics.com/2015/09/10/preventing-crime-for-pennies-on-the-dollar/)
-* [Thinking fast and slow](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
-* [Predictably irrational](http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Edition/dp/0061353248)
-* [Nudge - Improving Decisions, Health and Happiness](http://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/ref=sr_1_1?s=books&ie=UTF8&qid=1446775536&sr=1-1&keywords=nudge)
-* [Buyology - The Truth and Lies about why we buy](http://www.amazon.com/Buyology-Truth-Lies-About-Why/dp/0385523890/ref=sr_1_1?s=books&ie=UTF8&qid=1446775623&sr=1-1&keywords=buyology)
-* [Credentialed CORS XHR Requests](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS)
-* [FireFox Devtools Challenger](http://devtoolschallenger.com/)
+* [TAIGA](https://taiga.io/) is a project management platform for startups and agile developers & designers who want a simple, beautiful tool that makes work truly enjoyable.
+* [Administrate](https://robots.thoughtbot.com/announcing-administrate) is a new open-source library that helps you create beautiful admin dashboards in Rails apps.
+* [CONFIDANT](https://lyft.github.io/confidant/) is a open source secret management service that provides user-friendly storage and access to secrets in a secure way, from the developers at Lyft
+* [UBERBOT CHALLENGE](https://codefights.com/bots/bot_uber) has been trained on Uber's top notch engineering team, who make easy travel possible for millions of people in over 60 countries around the world.
+* [The Monster Gallery](http://www.gomonsterproject.com/monster-gallery) Behold! Over 100 monsters created by kids and artists from all over the world! A huge thanks to the kids for dreaming up these crazy creatures and another to our artists for making them come to life.
+* [Intercal](http://catb.org/esr/intercal/stross.html) -- the Language From Hell
+* [Ubeam Wireless Power] (http://techcrunch.com/2015/04/26/kill-the-cord/#.yit6l6h:htpO) uBeam’s Ultrasound Wireless Charging Is Real, And About To Be Really Funded
