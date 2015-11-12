@@ -1,4 +1,4 @@
-#### Interestings for Wed, 12 November 2015
+#### Interestings for Wed, 11 November 2015
 
 * [Dagger 2](http://google.github.io/dagger/) - Dependency injection without reflection
 * [Quasar](https://github.com/puniverse/quasar)/[Pulsar](https://github.com/puniverse/pulsar) - Fibers, Channels and Actors for the JVM/Clojure
