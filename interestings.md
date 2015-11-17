@@ -1,4 +1,6 @@
-#### Interestings for Fri, 13 November 2015
+#### Interestings for Tue, 17 November 2015
 
-* [Immutable.js](https://facebook.github.io/immutable-js/) - Immutable data cannot be changed once created, leading to much simpler application development, no defensive copying, and enabling advanced memoization and change detection techniques with simple logic.
-* [How to Solve the Hardest Logic Puzzle Ever] (http://nautil.us/issue/30/identity/how-to-solve-the-hardest-logic-puzzle-ever) - A step-by-step guide to True, False, and Random.
+* [See a Life-sized X-wing and TIE fighter in Changi Airport](http://www.channelnewsasia.com/news/singapore/star-wars-lands-at-changi/2254040.html).
+* [The UX of UP](http://www.propelics.com/ux-of-up-urinals-and-usability/) - Some guy uses Urinals to explain Mobile UI/UX design.
+* [TensorFlow](http://tensorflow.org) - Deep Learning ML system, mobile device friendly.
+* Bayesian average ratings - or how not to sort by average ratings. Read about it  [here](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html), [here](http://julesjacobs.github.io/2015/08/17/bayesian-scoring-of-ratings.html), and [here](http://www.evanmiller.org/bayesian-average-ratings.html).
