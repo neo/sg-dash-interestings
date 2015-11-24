@@ -1,8 +1,7 @@
-#### Interestings for (OMG IT'S) Friday!!, 20 November 2015
+#### Interestings for Tuesday, 24 November 2015
 
-* [Ruby 2.3 Released! `Hash.dig` and other goodies](https://www.ruby-lang.org/en/news/2015/11/11/ruby-2-3-0-preview1-released/)
-* [Facebook Origami - Design Prototyping + Export Code to iOS/Android!](https://facebook.github.io/origami/)
-* [Anko: ANdroid KOtlin: Programatic layouts! Yay no more XML](https://github.com/JetBrains/anko)
-* [3 Radical Ideas To Totally Disrupt Air Travel](http://www.fastcodesign.com/3051426/3-radical-ideas-to-totally-disrupt-air-travel)
-* 
-![](http://www.kingmannow.com/wp-content/uploads/2015/08/Wknd.png)
+* [Podcast.\_\_init\_\_](http://podcastinit.com/) -  A podcast about Python and the people who make it great
+* [PyParallel](http://pyparallel.org/) An experimental, proof-of-concept fork of Python 3 designed to optimally exploit multiple CPU cores, fast SSDs, NUMA architectures and 10Gb+ Ethernet networks.
+* [Pillforge](http://pillforge.github.io/) - cm sized medical robots open sourced!
+* [Credo](http://trivelop.de/2015/11/16/introducing-credo-code-linter-for-elixir/) - Elixir teaching code linter (cool). [source]( https://github.com/rrrene/credo)
+* [Sid Meier Civ inspired budget](http://alexrecker.com/our-new-sid-meiers-civilization-inspired-budget/)
