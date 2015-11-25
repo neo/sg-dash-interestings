@@ -1,7 +1,6 @@
-#### Interestings for Tuesday, 24 November 2015
+#### Interestings for Wednesday, 25 November 2015
 
-* [Podcast.\_\_init\_\_](http://podcastinit.com/) -  A podcast about Python and the people who make it great
-* [PyParallel](http://pyparallel.org/) An experimental, proof-of-concept fork of Python 3 designed to optimally exploit multiple CPU cores, fast SSDs, NUMA architectures and 10Gb+ Ethernet networks.
-* [Pillforge](http://pillforge.github.io/) - cm sized medical robots open sourced!
-* [Credo](http://trivelop.de/2015/11/16/introducing-credo-code-linter-for-elixir/) - Elixir teaching code linter (cool). [source]( https://github.com/rrrene/credo)
-* [Sid Meier Civ inspired budget](http://alexrecker.com/our-new-sid-meiers-civilization-inspired-budget/)
+* [Introducing Pokedex.org](http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org) -  A progressive webapp for Pokémon fans
+* Automate your work life with [scripts](https://github.com/NARKOZ/hacker-scripts): make coffee or email 'Kumar the @sshole'
+* [Chrome re-orders JS object keys if numerics](http://stackoverflow.com/questions/3186770/chrome-re-ordering-object-keys-if-numerics-is-that-normal-expected)
+* [R2D3's Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
