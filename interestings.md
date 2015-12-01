@@ -1,24 +1,15 @@
-# Singapore Standup Notes, Monday, November 30, 2015
+# Singapore Standup Notes, Tuesday, December 1, 2015
 
 ## Helps
 
-Daryl asks:
+From Mike:
 
-> I'm going on a long trip to the African wilderness soon. Please send me your reading recommendations! It must be on Kindle, novels preferred. Thanks!
+> Anyone knows of an in-browser Markdown renderer/editor? The goal is to
+> generate a preview panel for Markdown in a text area.
 
 ## Interestings
 
-* Erika brought in her [Jobs-To-Be-Done] Cards today. You can get your own [on Amazon](http://www.amazon.co.uk/dp/1782805796). Also check out the [original Kickstarter][kickstarter].
+* It is December already! O_o;
 
-[Jobs-To-Be-Done]: http://jobstobedone.org/
-[kickstarter]: https://www.kickstarter.com/projects/196851189/jtbd-cards-learning-to-interview-customers/posts/1419541
-
-* Confreaks has published [66 RubyConf 2015 videos to YouTube][rc-vids].
-
-[rc-vids]: https://www.youtube.com/playlist?list=PLE7tQUdRKcyYqT3LHMg4iH270kfyENCpp
-
-* 20 Android Dev Summit 2015 [videos are also on YouTube][ads-vids].
- 
-[ads-vids]: https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_Tt7q77qwyKRgytF1RzRx8&action_edit=1
-
-* Did you ever `git push --tags` only to have your CI thrown up its hands in despair as it tries to build your tag? That's because `--tags` doesn't push the commits the tags refer to. Use `--follow-tags` to push both. You can also [configure git to do this by default](http://stackoverflow.com/a/3745250).
+* Android Dev Summit included [openly available code
+  labs](https://www.code-labs.io/android-dev-summit)
