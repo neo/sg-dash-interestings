@@ -1,4 +1,5 @@
-## Interestings for Wednesday, December 2, 2015
+### Interestings for Wednesday, December 2, 2015
 
-* [Origami](https://facebook.github.io/origami/) by Facebook is a free tool for prototyping the design of mobile interfaces and interactions.
-* You can [stick a Raspberry Pi Zero inside an XBox controller](http://lifehacker.com/stuff-a-raspberry-pi-zero-into-an-xbox-controller-for-o-1745525351) for a cool game emulator setup
+* [Flash Professional rebranded to Animate CC](http://blogs.adobe.com/flashpro/welcome-adobe-animate-cc-a-new-era-for-flash-professional/)
+* [Monument Valley now free on iOS](http://www.engadget.com/2015/12/02/monument-valley-free-on-ios/)
+* [Stetho - A debug bridge for Android applications by Facebook](http://facebook.github.io/stetho/)
