@@ -1,5 +1,9 @@
-### Interestings for Wednesday, December 2, 2015
+### Interestings for Friday, December 4, 2015
 
-* [Flash Professional rebranded to Animate CC](http://blogs.adobe.com/flashpro/welcome-adobe-animate-cc-a-new-era-for-flash-professional/)
-* [Monument Valley now free on iOS](http://www.engadget.com/2015/12/02/monument-valley-free-on-ios/)
-* [Stetho - A debug bridge for Android applications by Facebook](http://facebook.github.io/stetho/)
+* Swift has been [open-sourced](https://github.com/apple/swift)
+* [Android Methods Count](http://methodscount.com): Intellij plugin that lists
+  dependency method counts.
+* [Scala.js](http://www.scala-js.org/)
+* [PersonaDrive](https://www.personadrive.com/): Your ticket to better user
+  stories and user scenarios.
+
