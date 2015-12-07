@@ -1,9 +1,7 @@
-### Interestings for Friday, December 4, 2015
+### Interestings for Monday, December 7, 2015
 
-* Swift has been [open-sourced](https://github.com/apple/swift)
-* [Android Methods Count](http://methodscount.com): Intellij plugin that lists
-  dependency method counts.
-* [Scala.js](http://www.scala-js.org/)
-* [PersonaDrive](https://www.personadrive.com/): Your ticket to better user
-  stories and user scenarios.
-
+* [Browsersync – Time-saving synchronised browser testing.](http://www.browsersync.io/)
+* Cloudflare is now HTTP/2
+* Maps API have travel times, including offline support
+* [Robo Kitty - DIY cat feeder in Node](https://github.com/rachelnicole/robokitty)
+* [vimrc-fu – share your best vimrc snippets](http://vimrcfu.com/)
