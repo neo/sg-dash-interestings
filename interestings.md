@@ -1,7 +1,6 @@
-### Interestings for Monday, December 7, 2015
+### Interestings for Wednesday, December 9, 2015
 
-* [Browsersync – Time-saving synchronised browser testing.](http://www.browsersync.io/)
-* Cloudflare is now HTTP/2
-* Maps API have travel times, including offline support
-* [Robo Kitty - DIY cat feeder in Node](https://github.com/rachelnicole/robokitty)
-* [vimrc-fu – share your best vimrc snippets](http://vimrcfu.com/)
+* [XKCD Thing Explainer – Complicated Stuff in Simple Words](http://xkcd.com/thing-explainer/)
+* Implicit conversions for scala
+* [Telelphone Pad Design](http://datagenetics.com/blog/august32015/)
+* [MongoDB 3.2: Now Powered by PostgreSQL](https://www.linkedin.com/pulse/mongodb-32-now-powered-postgresql-john-de-goes)
