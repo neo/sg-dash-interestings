@@ -1,8 +1,6 @@
-### Standup Notes for Wednesday, December 30, 2015
+### Interestings for Monday, 4 Jan 2016
 
-
-#### Interestings
-
-* [Delay Tolerant Networking](https://en.wikipedia.org/wiki/Delay-tolerant_networking)
-* [BeachNet: Propagation-based Information Sharing in Mostly Static Networks] (http://www.netlab.tkk.fi/u/jo/papers/2011-09-extremecom-beachnet.pdf)
-* [Drinking Book](http://www.cnet.com/news/drinkable-book-provides-safe-drinking-water/) Drinkable book provides safe drinking water
+* [Progressive webapps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) - native mobile app like experience for webapps
+* [Plan 9 Factotum] (http://plan9.bell-labs.com/plan9/factotum.html) - authentication protocol negotiation virtual file system for Plan 9 from Bell Labs
+* [Pymaybe](https://github.com/ekampf/pymaybe) - Python implementation of the maybe design pattern
+* [Safe navigation operator](https://bugs.ruby-lang.org/issues/11537) ```&.``` - in ruby 2.3.0
