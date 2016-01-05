@@ -1,6 +1,6 @@
-### Interestings for Monday, 4 Jan 2016
+### Interestings for Tuesday, 5 Jan 2016
 
-* [Progressive webapps](https://addyosmani.com/blog/getting-started-with-progressive-web-apps/) - native mobile app like experience for webapps
-* [Plan 9 Factotum] (http://plan9.bell-labs.com/plan9/factotum.html) - authentication protocol negotiation virtual file system for Plan 9 from Bell Labs
-* [Pymaybe](https://github.com/ekampf/pymaybe) - Python implementation of the maybe design pattern
-* [Safe navigation operator](https://bugs.ruby-lang.org/issues/11537) ```&.``` - in ruby 2.3.0
+* [GM invests $500 mil in Lyft](http://www.reuters.com/article/us-gm-lyft-investment-idUSKBN0UI1A820160104)
+* [Making Badass Developers](https://www.youtube.com/watch?v=FKTxC9pl-WM)
+* [Evolution of the Lightsaber Duel](http://en.rocketnews24.com/2015/12/25/the-evolution-of-the-lightsaber-duel-reveals-true-extent-of-kendos-influence-on-star-wars-movies/) - hosted by Mark Hamill (gasps!)
+* [Perl 5 is dead, Perl 6 is a disaster](http://eev.ee/blog/2011/06/27/perl-5-is-dead-perl-6-is-a-disaster/)
