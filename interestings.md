@@ -1,13 +1,10 @@
-### Interestings for Friday, 8 Jan 2016
+### Interestings for Monday, 11 Jan 2016
 
-- Do not set [POSIX as a
-  locale](http://pubs.opengroup.org/onlinepubs/009695399/basedefs/xbd_chap07.html)
-  on your system. It is older than ASCII and will mes things up.
-- [NSFW] [My Dad Wrote a Porno](https://www.acast.com/mydadwroteaporno) podcast.
-  'Nuff said.
-- Yelp releases [dumb-init](https://github.com/Yelp/dumb-init), a minimal init
-  system for Linux containers.
+- FreeBSD + Docker play well together
+- [NeoVim](https://neovim.io/) is finally usable (though still in alpha)
+- [Psychonauts 2](https://www.fig.co/campaigns/psychonauts-2) successfully crowd funded!
+- [RemarkJS](http://remarkjs.com/#1) - A simple, in-browser, markdown-driven slideshow tool.
+- [Most Important Design Jobs of the Future](http://www.fastcodesign.com/3054433/design-moves/the-most-important-design-jobs-of-the-future)
 
 == Helps
-- Michael asks if anyone has experience setting up React + Webpack
-
+- James is imaging some machines and was wondering if anyone wanted to pair with him on that
