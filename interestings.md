@@ -1,18 +1,11 @@
-### Interestings for Tuesday, 12 Jan 2016
-
-https://github.com/neo/sg-dash-interestings/edit/master/interestings.md
+### Interestings for Wednesday, 13 Jan 2016
 
 #### Helps
-- Stock-taking hardware inventory for Juanita
-- Software inventory, append to the email that will be circulated
-- Get your February vacation requests in by TODAY
-- NeoDash feedback
-- 2 tickets to Malacca, FREEEE! Who want?
+- Use 1 mug today :)
 
 #### The actual Interestings
-- [Breadfacing?!?!](http://www.buzzfeed.com/angelospagnolo/this-woman-smashing-her-face-into-bread-is-oddly-compelling#.hv8J7RMAa)
-- [External graphics card via USB-C](http://www.gaminglaptopsjunky.com/external-gpu-with-thunderbolt-3usb-type-c/)
-- [iMac (Retina 5K, 27-inch, Late 2014) and later iMac models can't be used as Target Display Mode displays.](https://support.apple.com/en-sg/HT204592)
-- [Oculus rift is super ex(USD599)](https://shop.oculus.com/), GPU minimum requirement is GTX970
-- [Category Theory for Programmers](http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) by Bartosz Milewski
+- [ANSIBLE 2.0 HAS ARRIVED](http://www.ansible.com/blog/ansible-2.0-launch)
+- [Docker for beginners](http://prakhar.me/docker-curriculum/) - Also gives a hands-on experience with building and deploying your webapps on the Cloud
+- [The lowest-end Intel NUC](http://www.intel.com/content/www/us/en/nuc/nuc-kit-nuc5cpyh.html) is power-packed and [cheap](http://www.amazon.com/Intel-NUC5CPYH-Graphics-2-5-Inch-BOXNUC5CPYH/dp/B00XPVRR5M)
+- [deck2pdf](https://github.com/melix/deck2pdf)Converts various HTML5 slide decks to PDF
 
