@@ -1,8 +1,4 @@
-### Interestings for Wednesday, 21 Jan 2016
-
-#### Helps
-- If you received an email from Mike regarding your dropbox account, please reply to him as soon as possible.
-
-#### The actual Interestings
-- [AI on the Infinite Monkey Cage](http://www.bbc.co.uk/programmes/b06wcsng) is an interesting discussion on the morals and ethics of the AI debate.
-- There's a once a decade planetary alignment visible from Singapore, from now until the end of february. Details [here](http://www.channelnewsasia.com/news/singapore/rare-celestial-show-5/2440996.html)
+### Interestings for Monday, 25 Jan 2016
+- [Sum: Stories of the Afterlife](https://en.wikipedia.org/wiki/Sum:_Forty_Tales_from_the_Afterlives) is a fun book.
+- [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10) is a good intro video to Spring Boot from Pivot Josh Long.
+- [The Unreasonable Effectiveness of Dynamic Typing for Practical Problems](https://vimeo.com/74354480) is a video that shows how dynamic typing can be more helpful than static typing.
