@@ -1,5 +1,10 @@
-### Interestings for Monday, 25 Jan 2016
-- [Sum: Stories of the Afterlife](https://en.wikipedia.org/wiki/Sum:_Forty_Tales_from_the_Afterlives) is a fun book.
-- [Getting Started with Spring Boot](https://www.youtube.com/watch?v=sbPSjI4tt10) is a good intro video to Spring Boot from Pivot Josh Long.
-- [The Unreasonable Effectiveness of Dynamic Typing for Practical Problems](https://vimeo.com/74354480) is a video that shows how dynamic typing can be more helpful than static typing.
-- [Lemurs and Parrots grok numbers](http://www.bbc.co.uk/programmes/p03chccc) is a video from the BBC.
+### Interestings for Tuesday, 26 Jan 2016
+
+### Helps
+- Daryl needs help with Electron
+
+### Interestings
+- [Explain Visualizer](http://explain.depesz.com/) PostgreSQL's explain analyze made readable
+- [Pressure.js](http://pressurejs.com/) JavaScript library that makes dealing with Apple's Force Touch and 3D Touch simple
+- Pebble released a [Health API](https://blog.getpebble.com/2015/12/15/health/) for fitness tracking
+- Udacity offers [nano degrees](https://www.udacity.com/nanodegree) built in partnership with industry leaders (like Google)
