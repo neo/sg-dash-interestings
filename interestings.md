@@ -1,17 +1,26 @@
-### Interestings for Thursday, 28 Jan 2016
+### Interestings for Friday, 29 Jan 2016
 
-### Reverse-help
-- Gabe is offering assistance to anyone who needs dev halp or a rubber ducky from 6-7pm today
+### Helps
+- Stephan wants to grok [category theory]
+[category theory]: https://en.wikipedia.org/wiki/Category_theory
 
 ### Interestings
-- [Interview with Erik Spiekermann](http://pi.co/erik-spiekermann/#life-story-of-a-legend), co-founder of FontShop
+- [Game of Thrones theme song breakdown][got] by the composer himself
+[got]: http://songexploder.net/ramin-djawadi
 
-- [Unikernel Systems Joins Docker](https://blog.docker.com/2016/01/unikernel/) and why [Unikernels are unfit for production](https://www.joyent.com/blog/unikernels-are-unfit-for-production)
+- Björn and James worked on a cloud scalable [locust] cluster for load testing
+[locust]: http://locust.io/
 
-- [Advocating against Android Fragments](https://corner.squareup.com/2014/10/advocating-against-android-fragments.html), they're bad for you
+- Beware of [Alpine Linux] in Docker as it uses [musl] libc instead of GNU libc. Resolves DNS differently
+[Alpine Linux]: http://www.alpinelinux.org/
+[musl]: http://www.musl-libc.org/
 
-- [Free SSL](https://aws.amazon.com/blogs/aws/new-aws-certificate-manager-deploy-ssltls-based-apps-on-aws/) with the new AWS certificate manager
+- [Goad] is a load testing tool written in Go that runs on [AWS Lambda]
+[Goad]: https://goad.io/
+[AWS Lambda]: http://docs.aws.amazon.com/lambda/latest/dg/welcome.html
 
-- [Kinto](http://kinto.readthedocs.org/en/latest/overview.html) - A lightweight JSON storage service with synchronisation and sharing abilities, used at Mozilla
+- [Parse is closing down](http://blog.parse.com/announcements/moving-on/) and they're being a class act about it. Providing [data migration][oss] to your own Mongo server and [open sourcing the Parse Server][oss] to minimize changes in your app.
+[oss]: http://blog.parse.com/announcements/introducing-parse-server-and-the-database-migration-tool/
 
-- [Google beats Go Pro](http://www.technologyreview.com/news/546066/googles-ai-masters-the-game-of-go-a-decade-earlier-than-expected/) with AlphaGo's AI
+- [Loon Copter]: A drone that can fly, float and dive underwater - from Oakland University
+[Loon Copter]: https://wwwp.oakland.edu/secs/news/2016/winter/ou-teams-underwater-drone-competing-for-1m-prize-in-international-competition
