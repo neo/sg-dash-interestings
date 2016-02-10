@@ -4,7 +4,7 @@
 
 - [Rack](http://rack.github.io/) was inspired by [WSGI](http://wsgi.readthedocs.org/en/latest/) says James
 
-- [WSGI 2.0 discussions)(http://wsgi.readthedocs.org/en/latest/proposals-2.0.html) are interesting because they have to keep all the current users happy while integrating things like websockets and HTTP2.
+- [WSGI 2.0 discussions](http://wsgi.readthedocs.org/en/latest/proposals-2.0.html) are interesting because they have to keep all the current users happy while integrating things like websockets and HTTP2.
 
 - [Face recognition and Right Whales - NOAA/Kaggle competition](http://deepsense.io/deep-learning-right-whale-recognition-kaggle)
 
