@@ -1,5 +1,25 @@
-### Interestings for Wed, 3 Feb 2016
+## Standup notes for Fri, 5 Feb 2016
 
-1. [Alphabet’s market cap tops Apple, is now the world’s most valuable company](http://arstechnica.com/gadgets/2016/02/alphabets-market-cap-tops-apple-is-now-the-worlds-most-valuable-company/)
-2. PostgreSQL's [`ALTER TABLE USING`](http://www.postgresql.org/docs/9.5/static/sql-altertable.html) is good for update
-3. [`letfn` in Clojure](http://clojuredocs.org/clojure.core/letfn) for self referenicng functions.
+### Helps
+
+- What to do if your new email address is wrong?
+  > Please email Iris.
+
+### Interestings
+
+- [Maru OS](http://maruos.com/) dual-boot for Android devices
+
+- [Tensors](https://en.wikipedia.org/wiki/Tensor): matrix of vectors, or vector of matrices?
+
+- [React performance optimizations](http://benchling.engineering/performance-engineering-with-react/)
+
+- [Instagram does ASCII
+  art](http://www.engadget.com/2016/01/31/facebook-instagram-ascii-art/). Given any uploaded
+  [picture](https://scontent-ord1-1.cdninstagram.com/t51.12885-15/e15/11193128_102006083466548_1464757605_n.jpg),
+  you can get
+  [color](https://scontent-ord1-1.cdninstagram.com/t51.12885-15/e15/11193128_102006083466548_1464757605_n.jpg.html)
+  and
+  [black and
+  white](https://scontent-ord1-1.cdninstagram.com/t51.12885-15/e15/11193128_102006083466548_1464757605_n.jpg.txt)
+  text versions by appending .html and .txt to the URL.
+
