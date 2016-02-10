@@ -1,25 +1,11 @@
-## Standup notes for Fri, 5 Feb 2016
-
-### Helps
-
-- What to do if your new email address is wrong?
-  > Please email Iris.
+## Standup notes for Wed, 10 Feb 2016
 
 ### Interestings
 
-- [Maru OS](http://maruos.com/) dual-boot for Android devices
+- [Rack](http://rack.github.io/) was inspired by [WSGI](http://wsgi.readthedocs.org/en/latest/) says James
 
-- [Tensors](https://en.wikipedia.org/wiki/Tensor): matrix of vectors, or vector of matrices?
+- [Face recognition and Right Whales - NOAA/Kaggle competition](http://deepsense.io/deep-learning-right-whale-recognition-kaggle)
 
-- [React performance optimizations](http://benchling.engineering/performance-engineering-with-react/)
+- [Amazon announces Lumberjack, a free Game Engine](http://www.forbes.com/sites/insertcoin/2016/02/09/out-of-nowhere-amazon-debuts-its-own-free-game-engine-lumberjack/)
 
-- [Instagram does ASCII
-  art](http://www.engadget.com/2016/01/31/facebook-instagram-ascii-art/). Given any uploaded
-  [picture](https://scontent-ord1-1.cdninstagram.com/t51.12885-15/e15/11193128_102006083466548_1464757605_n.jpg),
-  you can get
-  [color](https://scontent-ord1-1.cdninstagram.com/t51.12885-15/e15/11193128_102006083466548_1464757605_n.jpg.html)
-  and
-  [black and
-  white](https://scontent-ord1-1.cdninstagram.com/t51.12885-15/e15/11193128_102006083466548_1464757605_n.jpg.txt)
-  text versions by appending .html and .txt to the URL.
-
+- The [Heliospheric Current sheet](https://en.wikipedia.org/wiki/Heliospheric_current_sheet) describes why the solar wind looks like it does.
