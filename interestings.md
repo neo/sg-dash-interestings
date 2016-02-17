@@ -1,11 +1,14 @@
-## Standup notes for Tue, 16 Feb 2016
+## Standup notes for Wed, 17 Feb 2016
 
 ### Helps
-- [Gabe's tmux config]( https://github.com/gabehollombe/config_files/blob/master/.tmux.conf)
-
+- Yifeng’s brought back some dumplings and she wants our help eating it.
 
 ### Interestings
-- [The OH Shell](https://github.com/michaelmacinnis/oh)
-- [The BOSH Outer Shell for PCF](https://docs.pivotal.io/partners/deploying-with-bosh.html)
-- [What can a technologist do about climate change ?](http://worrydream.com/ClimateChange/)
-- [Cloud Foundy Youtube Channel](https://www.youtube.com/channel/UC0ZYS0Y7b5oiVLvxGf4magw)
+
+- [Kotlin 1.0 released](https://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
+
+Kotlin is a pragmatic programming language for JVM and Android that combines OO and functional features and is focused on interoperability, safety, clarity and tooling support.
+
+- [NGINX 1.9.11 has dynamic modules](https://www.nginx.com/resources/wiki/extending/converting/)
+
+This means that selected modules can be loaded into NGINX at runtime based on configuration files. 
