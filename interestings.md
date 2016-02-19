@@ -1,14 +1,11 @@
-## Standup notes for Wed, 17 Feb 2016
+## Standup notes for Thu, 18 Feb 2016
 
 ### Helps
-- Yifeng’s brought back some dumplings and she wants our help eating it.
+
+Please do not open your payslip login 
 
 ### Interestings
 
-- [Kotlin 1.0 released](https://blog.jetbrains.com/kotlin/2016/02/kotlin-1-0-released-pragmatic-language-for-jvm-and-android/)
+[Tensor Flow released](https://www.tensorflow.org/)
 
-Kotlin is a pragmatic programming language for JVM and Android that combines OO and functional features and is focused on interoperability, safety, clarity and tooling support.
-
-- [NGINX 1.9.11 has dynamic modules](https://www.nginx.com/resources/wiki/extending/converting/)
-
-This means that selected modules can be loaded into NGINX at runtime based on configuration files. 
+Google releases Tensor Flow. TensorFlow is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) that flow between them. This flexible architecture lets you deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device without rewriting code. TensorFlow was originally developed by researchers and engineers working on the Google Brain team within Google's Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research. The system is general enough to be applicable in a wide variety of other domains, as well.
