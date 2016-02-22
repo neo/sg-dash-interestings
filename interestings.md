@@ -1,7 +1,12 @@
-## Standup notes for Friday, 19 Feb 2016
+## Standup notes for Monday, 22 Feb 2016
+### Helps
+- Please start using pivotal email
+- Please ensure that your business card info has been received by Evelyn
+- Rahul wan't to know if Pivotal Academy courses are free to access
 
 ### Interestings
 
-[Google buys PiE](http://recode.net/2016/02/18/google-buys-slack-like-startup-pie-launches-office-for-next-billion-in-singapore/)
-
-[Backblaze](https://backblaze.com) released its annual [hard drive reliability report](https://www.backblaze.com/blog/hard-drive-reliability-q4-2015/). This one and older ones are interesting case studies in hard drive reliability.
+- [Realm](https://realm.io/) replacement for SQLite & Core Data for mobile applications
+- [Maybe](https://github.com/p-e-w/maybe) See what a program does before deciding whether you really want it to happen.
+- [htop](http://hisham.hm/htop/): Interactive process viewer for unix
+- Linux Mint 17.3 ISO [Hacked!](http://blog.linuxmint.com/?p=2994)
